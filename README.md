@@ -1,16 +1,19 @@
-[![CrackAlgo — LeetCode, Codeforces and GitHub stats](https://crackalgo.in/api/widget/## Hi there 👋
 
-<!--
-**bhagyarajbr63-lab/bhagyarajbr63-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bhagyaraj Br 👋
 
-Here are some ideas to get you started:
+## 💻 My Coding Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- LeetCode and HackerRank Stats -->
+![CrackAlgo Stats](YOUR_GENERATED_STATS_IMAGE_URL)
+
+## 🏆 My Coding Profiles
+
+- [LeetCode](https://leetcode.com/u/Bhagyarajbr/)
+- [HackerRank](https://www.hackerrank.com/profile/bhagyarajbr63)
+- [GitHub](https://github.com/bhagyarajbr63-lab)
+
+## 🌱 About Me
+
+- Interested in programming and problem solving.
+- Practising coding regularly.
+- Learning new technologies.
