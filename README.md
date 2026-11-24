@@ -1,4 +1,5 @@
 
+# 
 # Bhagyaraj Br 👋
 
 ## My Coding Profiles
@@ -9,4 +10,4 @@
 
 ## My Coding Statistics
 
-LeetCode and HackerRank statistics will be displayed here.
+[![CrackAlgo — LeetCode, Codeforces and GitHub stats](https://crackalgo.in/api/widget/stats?leetcode=Bhagyarajbr&hackerrank=bhagyarajbr63&github=bhagyarajbr63-lab)](https://crackalgo.in/u?leetcode=Bhagyarajbr&hackerrank=bhagyarajbr63&github=bhagyarajbr63-lab)
