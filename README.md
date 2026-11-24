@@ -1,4 +1,4 @@
-## Hi there 👋
+[![CrackAlgo — LeetCode, Codeforces and GitHub stats](https://crackalgo.in/api/widget/## Hi there 👋
 
 <!--
 **bhagyarajbr63-lab/bhagyarajbr63-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
